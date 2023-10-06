@@ -1,2 +1,6 @@
-package Character;public interface Spell {
+package Character;
+
+public interface Spell {
+
+    String cast();
 }

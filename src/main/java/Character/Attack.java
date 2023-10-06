@@ -1,2 +1,6 @@
-package Character;public interface Attack {
+package Character;
+
+public interface Attack {
+
+    String attack();
 }
